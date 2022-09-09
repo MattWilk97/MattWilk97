@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattWilk97
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Javascript and JS Frameworks like react, node, typescript, Git, Docker.
+- 🌱 I’m currently learning Javascript and JS Frameworks like react, node, typescript. I am also learning Git and Docker.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: mawilkins10@gmail.com
 
