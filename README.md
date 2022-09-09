@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MattWilk97
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Javascript and JS Frameworks like react, node, typescript, Git, Docker.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: email: mawilkins10@gmail.com
 
 <!---
 MattWilk97/MattWilk97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
